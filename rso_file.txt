@@ -1,0 +1,7 @@
+Illini Japanese Association:4;"image_file_name";we help spread lit Japanese culture;40;4.1:
+Illinois Student Government:5;"image_file_name";elected to serve student body;100;3.5:
+Engineering Council:2;"image_file_name";we keep engineering great;30;4.0:
+Accounting Club:1;"image_file_name";we introduce business students with different accounting careers;67;3.2:
+Adventure Club:6;"image_file_name";Adventure Club sets out to create a unique experience among fellow college students. Activities include expeditions to locations around campus that are fun to visit. Members gain ranks by participating in these activities and competing in teams at the events. Make friends and win prizes!;30;2:
+Disability Law Society:0;"image_file_name";Advancing accessibility and disability law through education and advocacy.;13;4.3:
+Badminton For Fun:3;"image_file_name";We welcome anyone who shares a passion for badminton and wants to have fun. No tryouts, beginners are welcome. Come meet new people while sharpening your badminton skills!;28;5:matt2;I didn't think i would enjoy badminton this much!!!!;20|junryuf2;I dont like badminton now thanks to this club....;5|
