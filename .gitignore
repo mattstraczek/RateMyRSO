@@ -1,0 +1,4 @@
+bin/exec
+bin/tests
+obj/driver.o
+obj/tests.o
